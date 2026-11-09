@@ -47,4 +47,4 @@ La presentación consta de **6 diapositivas**:
 
 ```text
 .
-└── index.html      # Archivo único autocontenido (HTML + CSS + JS)
+└── Mapas.html      # Archivo único autocontenido (HTML + CSS + JS)
